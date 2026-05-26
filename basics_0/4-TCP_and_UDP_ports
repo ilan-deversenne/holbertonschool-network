@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 # Show listening ports
-netstat -tulnp
+netstat -tulxnp
