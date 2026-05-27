@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Listen on port 98
+echo -e "Hello world\ntest" | nc -l 98
